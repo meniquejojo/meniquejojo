@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meniquejojo
-- 👀 I’m interested in software development,machine learning ,app development , AI development , game design and robotics 
-- 🌱 I’m currently learning python, javascript and c++
+- 👀 I’m interested in machine learning,research , AI governance and AI policy .
 - 📫 How to reach me email: jojololaifedolapo@gmail.com
 - 😄 Pronouns: she /her 
 
